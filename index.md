@@ -1,1 +1,1 @@
-# The `flatsurf` software suite
+# The Home of the flatsurf Software Suite
