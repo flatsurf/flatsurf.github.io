@@ -1,4 +1,4 @@
-Welcome to the flatsurf software suite!
+## Welcome to the flatsurf software suite!
 
 The flatsurf software suite is a collection of mathematical software libraries to study [translation surfaces](https://en.wikipedia.org/wiki/Translation_surface) and related objects. It consists of:
 
