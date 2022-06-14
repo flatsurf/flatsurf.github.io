@@ -29,4 +29,4 @@ You can also reach out to us by [email](mailto:contact@flatsurf.org) <!--
 currently being forwarded to Julian --> or join us on
 [Zulip](https://sagemath.zulipchat.com) in the
 [#polygon](https://sagemath.zulipchat.com/#narrow/stream/271193-polygon)
-channel.
+stream.
