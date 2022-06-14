@@ -16,3 +16,17 @@ The flatsurf software suite is a collection of mathematical software libraries t
 * [Origami](https://github.com/AG-Weitze-Schmithusen/Origami) provides calculations for origamis in GAP
 * [SnOrbitProject](https://gitlab.eecs.umich.edu/translationsurfaces/snorbitproject) ?
 * [veerer](https://gitlab.com/videlec/veerer/) veering triangulations of surfaces and their flat structures in Python
+
+### Contact
+
+We welcome all contributions to the flatsurf project :)
+
+If you find that something is not working correctly, or if you have an idea for
+an improvement, feel free to [create an
+issue](https://github.com/flatsurf/sage-flatsurf/issues).
+
+You can also reach out to us by [email](mailto:contact@flatsurf.org) <!--
+currently being forwarded to Julian --> or join us on
+[Zulip](https://sagemath.zulipchat.com) in the
+[#polygon](https://sagemath.zulipchat.com/#narrow/stream/271193-polygon)
+channel.
