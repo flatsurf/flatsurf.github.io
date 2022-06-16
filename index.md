@@ -14,7 +14,7 @@ The flatsurf software suite is a collection of mathematical software libraries t
 * [edwards_algorithm](https://github.com/slade96/edwards_algorithm) computes generators of the Veech group of a translation surface in SageMath when the group is a lattice
 * [flipper](https://flipper.readthedocs.io/en/latest/) computes the action of mapping classes on laminations on punctured surfaces in Python
 * [Origami](https://github.com/AG-Weitze-Schmithusen/Origami) provides calculations for origamis in GAP
-* [SnOrbitProject](https://gitlab.eecs.umich.edu/translationsurfaces/snorbitproject) ?
+* [SnOrbitProject](https://gitlab.eecs.umich.edu/translationsurfaces/snorbitproject) decides whether a genus two translation surface has a convex pattern
 * [veerer](https://gitlab.com/videlec/veerer/) veering triangulations of surfaces and their flat structures in Python
 
 ### Contact
