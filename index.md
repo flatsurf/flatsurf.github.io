@@ -30,3 +30,7 @@ currently being forwarded to Julian --> or join us on
 [Zulip](https://sagemath.zulipchat.com) in the
 [#polygon](https://sagemath.zulipchat.com/#narrow/stream/271193-polygon)
 stream.
+
+### Installation
+
+Please follow the instructions in our [documentation](https://flatsurf.github.io/sage-flatsurf/#installation) to install the flatsurf suite on your system.
