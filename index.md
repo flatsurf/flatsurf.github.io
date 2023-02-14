@@ -8,14 +8,18 @@ The flatsurf software suite is a collection of mathematical software libraries t
 * [flatsurf](https://github.com/flatsurf/flatsurf/), [surface-dynamics](https://flatsurf.github.io/surface-dynamics/), [sage-flatsurf](https://flatsurf.github.io/sage-flatsurf) for translation surfaces, and
 * [vue-flatsurf](https://github.com/flatsurf/vue-flatsurf), [ipyvue-flatsurf](https://github.com/flatsurf/ipyvue-flatsurf) for visualization.
 
-### Related Projects
+### Related projects
 
 * [curver](https://github.com/MarkCBell/curver) calculations in the curve complex in Python
 * [edwards_algorithm](https://github.com/slade96/edwards_algorithm) computes generators of the Veech group of a translation surface in SageMath when the group is a lattice
 * [flipper](https://flipper.readthedocs.io/en/latest/) computes the action of mapping classes on laminations on punctured surfaces in Python
+* [MapClass](https://www.gap-system.org/Packages/mapclass.html) calculates the mapping class group orbits for a given finite group
 * [Origami](https://github.com/AG-Weitze-Schmithusen/Origami) provides calculations for origamis in GAP
 * [SnOrbitProject](https://gitlab.eecs.umich.edu/translationsurfaces/snorbitproject) decides whether a genus two translation surface has a convex pattern
 * [veerer](https://gitlab.com/videlec/veerer/) veering triangulations of surfaces and their flat structures in Python
+* [Veering](https://github.com/henryseg/Veering) for working with transverse taut and veering ideal triangulations
+
+See also [the CompuTop software archive](https://nmd.web.illinois.edu/computop/).
 
 ### Contact
 
