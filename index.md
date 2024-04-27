@@ -34,7 +34,7 @@ issue](https://github.com/flatsurf/sage-flatsurf/issues).
 You can also reach out to us by [email](mailto:contact@flatsurf.org) <!--
 currently being forwarded to Julian --> or join us on
 [Zulip](https://sagemath.zulipchat.com) in the
-[#polygon](https://sagemath.zulipchat.com/#narrow/stream/271193-polygon)
+[#flatsurf](https://sagemath.zulipchat.com/#narrow/stream/271193-flatsurf)
 stream.
 
 ### Installation
