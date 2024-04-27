@@ -9,6 +9,8 @@ The flatsurf software suite is a collection of mathematical software libraries t
 * [veerer](https://flatsurf.github.io/veerer/) veering triangulations of surfaces and their flat structures, and
 * [vue-flatsurf](https://github.com/flatsurf/vue-flatsurf), [ipyvue-flatsurf](https://github.com/flatsurf/ipyvue-flatsurf) for visualization.
 
+Explore some features by taking the [**tour of flatsurf**](https://flatsurf.github.io/sage-flatsurf/examples/tour)!
+
 ### Related projects
 
 * [curver](https://github.com/MarkCBell/curver) calculations in the curve complex in Python
